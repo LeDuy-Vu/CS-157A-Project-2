@@ -1,2 +1,2 @@
 # CS-157A-Project-2-Data-Design
-The collaborative second project from my Database Management Systems class is to develop a relational database design for a hypothetical growing company that sells homeowners insurance
+As a team of 2, we developed a relational database design for a hypothetical company selling homeowners insurance based on raw data about the company's operations and their customers. From scratch, we followed planned steps to transfer original ideas to preliminary ER diagram, convert it to relational database schemas, and normalize to get the final design. We also created a small sample data set to test the design in SQLite and succesfully provided the company desired data from 100% of their queries.
